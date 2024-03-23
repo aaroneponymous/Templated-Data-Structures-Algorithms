@@ -1,0 +1,325 @@
+File: inputs/1.txt Threads: 1
+Value: 1426   Time: 6.89358 ms
+Value: 1426   Time: 6.06862 ms
+Value: 1426   Time: 8.95197 ms
+Value: 1426   Time: 10.4186 ms
+Value: 1426   Time: 4.48366 ms
+Value: 1426   Time: 4.39188 ms
+Value: 1426   Time: 4.54061 ms
+Value: 1426   Time: 4.4025 ms
+Value: 1426   Time: 4.44666 ms
+Value: 1426   Time: 4.44444 ms
+Average Execution Time: 5.90426 ms
+
+File: inputs/1.txt Threads: 2
+Value: 1426   Time: 3.09382 ms
+Value: 1426   Time: 3.06129 ms
+Value: 1426   Time: 3.04957 ms
+Value: 1426   Time: 3.11158 ms
+Value: 1426   Time: 3.34725 ms
+Value: 1426   Time: 3.0187 ms
+Value: 1426   Time: 3.03741 ms
+Value: 1426   Time: 3.05105 ms
+Value: 1426   Time: 3.02893 ms
+Value: 1426   Time: 3.00626 ms
+Average Execution Time: 3.08059 ms
+
+File: inputs/1.txt Threads: 4
+Value: 1426   Time: 4.90472 ms
+Value: 1426   Time: 4.91436 ms
+Value: 1426   Time: 4.96212 ms
+Value: 1426   Time: 8.42347 ms
+Value: 1426   Time: 5.77049 ms
+Value: 1426   Time: 4.77964 ms
+Value: 1426   Time: 4.7311 ms
+Value: 1426   Time: 4.67805 ms
+Value: 1426   Time: 4.68839 ms
+Value: 1426   Time: 4.69293 ms
+Average Execution Time: 5.25453 ms
+
+File: inputs/1.txt Threads: 8
+Value: 1426   Time: 4.66158 ms
+Value: 1426   Time: 12.0817 ms
+Value: 1426   Time: 4.75965 ms
+Value: 1426   Time: 4.95934 ms
+Value: 1426   Time: 6.40053 ms
+Value: 1426   Time: 4.59622 ms
+Value: 1426   Time: 4.70689 ms
+Value: 1426   Time: 4.38657 ms
+Value: 1426   Time: 4.64744 ms
+Value: 1426   Time: 11.265 ms
+Average Execution Time: 6.2465 ms
+
+File: inputs/1.txt Threads: 16
+Value: 1426   Time: 4.0688 ms
+Value: 1426   Time: 4.00614 ms
+Value: 1426   Time: 3.75628 ms
+Value: 1426   Time: 3.93817 ms
+Value: 1426   Time: 3.89672 ms
+Value: 1426   Time: 10.5557 ms
+Value: 1426   Time: 4.27042 ms
+Value: 1426   Time: 11.8109 ms
+Value: 1426   Time: 3.94817 ms
+Value: 1426   Time: 5.17702 ms
+Average Execution Time: 5.54284 ms
+
+File: inputs/2.txt Threads: 1
+Value: 304865   Time: 10266.5 ms
+Value: 304865   Time: 10385.9 ms
+Value: 304865   Time: 9075.08 ms
+Value: 304865   Time: 8651.11 ms
+Value: 304865   Time: 8900.77 ms
+Value: 304865   Time: 8628.29 ms
+Value: 304865   Time: 8948.79 ms
+Value: 304865   Time: 9011.22 ms
+Value: 304865   Time: 8898.6 ms
+Value: 304865   Time: 8905.8 ms
+Average Execution Time: 9167.2 ms
+
+File: inputs/2.txt Threads: 2
+Value: 304865   Time: 5249.28 ms
+Value: 304865   Time: 5293.17 ms
+Value: 304865   Time: 5312.02 ms
+Value: 304865   Time: 5378.33 ms
+Value: 304865   Time: 5253.52 ms
+Value: 304865   Time: 5319.01 ms
+Value: 304865   Time: 5288.91 ms
+Value: 304865   Time: 5298.85 ms
+Value: 304865   Time: 5335.45 ms
+Value: 304865   Time: 5460.7 ms
+Average Execution Time: 5318.92 ms
+
+File: inputs/2.txt Threads: 4
+Value: 304865   Time: 3579.78 ms
+Value: 304865   Time: 3619.49 ms
+Value: 304865   Time: 3561.25 ms
+Value: 304865   Time: 3553.62 ms
+Value: 304865   Time: 3598.02 ms
+Value: 304865   Time: 3577.73 ms
+Value: 304865   Time: 3679.12 ms
+Value: 304865   Time: 3681.38 ms
+Value: 304865   Time: 3684.9 ms
+Value: 304865   Time: 3649.33 ms
+Average Execution Time: 3618.46 ms
+
+File: inputs/2.txt Threads: 8
+Value: 304865   Time: 3168.69 ms
+Value: 304865   Time: 3240.23 ms
+Value: 304865   Time: 3257.89 ms
+Value: 304865   Time: 3200.36 ms
+Value: 304865   Time: 3192.03 ms
+Value: 304865   Time: 2863.69 ms
+Value: 304865   Time: 2637.25 ms
+Value: 304865   Time: 3150.43 ms
+Value: 304865   Time: 3418.13 ms
+Value: 304865   Time: 2795.89 ms
+Average Execution Time: 3092.46 ms
+
+File: inputs/2.txt Threads: 16
+Value: 304865   Time: 2381.21 ms
+Value: 304865   Time: 2358.19 ms
+Value: 304865   Time: 2388.88 ms
+Value: 304865   Time: 2366.74 ms
+Value: 304865   Time: 2380.64 ms
+Value: 304865   Time: 2343.12 ms
+Value: 304865   Time: 2345.15 ms
+Value: 304865   Time: 2752.59 ms
+Value: 304865   Time: 3006.17 ms
+Value: 304865   Time: 3133.89 ms
+Average Execution Time: 2545.66 ms
+
+File: inputs/3.txt Threads: 1
+Value: 143562   Time: 4471.97 ms
+Value: 143562   Time: 4648.86 ms
+Value: 143562   Time: 4593.23 ms
+Value: 143562   Time: 4722.42 ms
+Value: 143562   Time: 4272.7 ms
+Value: 143562   Time: 4531.67 ms
+Value: 143562   Time: 4247.95 ms
+Value: 143562   Time: 4261.41 ms
+Value: 143562   Time: 4206.3 ms
+Value: 143562   Time: 4239.13 ms
+Average Execution Time: 4419.56 ms
+
+File: inputs/3.txt Threads: 2
+Value: 143562   Time: 2769.43 ms
+Value: 143562   Time: 3174.97 ms
+Value: 143562   Time: 2870 ms
+Value: 143562   Time: 2864.86 ms
+Value: 143562   Time: 3183.87 ms
+Value: 143562   Time: 2863.19 ms
+Value: 143562   Time: 2900.8 ms
+Value: 143562   Time: 2863.68 ms
+Value: 143562   Time: 2864.45 ms
+Value: 143562   Time: 2826.12 ms
+Average Execution Time: 2918.14 ms
+
+File: inputs/3.txt Threads: 4
+Value: 143562   Time: 2107.54 ms
+Value: 143562   Time: 2315.49 ms
+Value: 143562   Time: 2167.08 ms
+Value: 143562   Time: 2289.29 ms
+Value: 143562   Time: 2059.55 ms
+Value: 143562   Time: 2009.09 ms
+Value: 143562   Time: 2147.3 ms
+Value: 143562   Time: 2032.42 ms
+Value: 143562   Time: 2247.79 ms
+Value: 143562   Time: 2094.97 ms
+Average Execution Time: 2147.05 ms
+
+File: inputs/3.txt Threads: 8
+Value: 143562   Time: 1967.93 ms
+Value: 143562   Time: 1984.88 ms
+Value: 143562   Time: 1989.69 ms
+Value: 143562   Time: 1978.92 ms
+Value: 143562   Time: 1960.58 ms
+Value: 143562   Time: 1969.67 ms
+Value: 143562   Time: 1964.45 ms
+Value: 143562   Time: 1949.07 ms
+Value: 143562   Time: 1968.01 ms
+Value: 143562   Time: 1975.43 ms
+Average Execution Time: 1970.86 ms
+
+File: inputs/3.txt Threads: 16
+Value: 143562   Time: 1956.76 ms
+Value: 143562   Time: 1985.07 ms
+Value: 143562   Time: 2001.33 ms
+Value: 143562   Time: 1964.63 ms
+Value: 143562   Time: 1995.48 ms
+Value: 143562   Time: 1863.21 ms
+Value: 143562   Time: 1372.48 ms
+Value: 143562   Time: 1359.38 ms
+Value: 143562   Time: 1356.88 ms
+Value: 143562   Time: 1368.16 ms
+Average Execution Time: 1722.34 ms
+
+File: inputs/4.txt Threads: 1
+Value: 751184   Time: 23817.3 ms
+Value: 751184   Time: 24104.5 ms
+Value: 751184   Time: 25301.7 ms
+Value: 751184   Time: 24236.3 ms
+Value: 751184   Time: 23666.8 ms
+Value: 751184   Time: 24424.1 ms
+Value: 751184   Time: 24270.7 ms
+Value: 751184   Time: 26152.2 ms
+Value: 751184   Time: 29111 ms
+Value: 751184   Time: 31550.4 ms
+Average Execution Time: 25663.5 ms
+
+File: inputs/4.txt Threads: 2
+Value: 751184   Time: 15084.5 ms
+Value: 751184   Time: 15386.4 ms
+Value: 751184   Time: 15503.8 ms
+Value: 751184   Time: 15195 ms
+Value: 751184   Time: 14645.4 ms
+Value: 751184   Time: 20652.4 ms
+Value: 751184   Time: 15569.1 ms
+Value: 751184   Time: 15983.8 ms
+Value: 751184   Time: 14826.2 ms
+Value: 751184   Time: 14712.4 ms
+Average Execution Time: 15755.9 ms
+
+File: inputs/4.txt Threads: 4
+Value: 751184   Time: 9592.68 ms
+Value: 751184   Time: 9625.3 ms
+Value: 751184   Time: 9558.6 ms
+Value: 751184   Time: 9483.45 ms
+Value: 751184   Time: 9522.47 ms
+Value: 751184   Time: 9508.47 ms
+Value: 751184   Time: 9513.89 ms
+Value: 751184   Time: 9661.43 ms
+Value: 751184   Time: 9477.85 ms
+Value: 751184   Time: 9524.22 ms
+Average Execution Time: 9546.84 ms
+
+File: inputs/4.txt Threads: 8
+Value: 751184   Time: 7891.26 ms
+Value: 751184   Time: 7696.93 ms
+Value: 751184   Time: 7812.35 ms
+Value: 751184   Time: 8043.16 ms
+Value: 751184   Time: 7681.37 ms
+Value: 751184   Time: 7738.51 ms
+Value: 751184   Time: 7640.06 ms
+Value: 751184   Time: 7649.63 ms
+Value: 751184   Time: 7797.41 ms
+Value: 751184   Time: 7945.33 ms
+Average Execution Time: 7789.6 ms
+
+File: inputs/4.txt Threads: 16
+Value: 751184   Time: 7246.53 ms
+Value: 751184   Time: 7273.53 ms
+Value: 751184   Time: 7234.18 ms
+Value: 751184   Time: 7238.57 ms
+Value: 751184   Time: 7220.19 ms
+Value: 751184   Time: 7310.44 ms
+Value: 751184   Time: 7222.22 ms
+Value: 751184   Time: 7377.88 ms
+Value: 751184   Time: 7272.2 ms
+Value: 751184   Time: 7262.68 ms
+Average Execution Time: 7265.84 ms
+
+File: inputs/5.txt Threads: 1
+Value: 447002   Time: 24627.4 ms
+Value: 447002   Time: 24606.1 ms
+Value: 447002   Time: 24471.4 ms
+Value: 447002   Time: 24955.9 ms
+Value: 447002   Time: 24450.9 ms
+Value: 447002   Time: 24650.8 ms
+Value: 447002   Time: 24501.5 ms
+Value: 447002   Time: 24464 ms
+Value: 447002   Time: 24534.4 ms
+Value: 447002   Time: 24453.3 ms
+Average Execution Time: 24571.6 ms
+
+File: inputs/5.txt Threads: 2
+Value: 447002   Time: 14469.3 ms
+Value: 447002   Time: 14292.4 ms
+Value: 447002   Time: 14405.2 ms
+Value: 447002   Time: 14578.2 ms
+Value: 447002   Time: 14670.6 ms
+Value: 447002   Time: 14270.2 ms
+Value: 447002   Time: 14726.2 ms
+Value: 447002   Time: 13669.8 ms
+Value: 447002   Time: 13771.2 ms
+Value: 447002   Time: 13687.1 ms
+Average Execution Time: 14254 ms
+
+File: inputs/5.txt Threads: 4
+Value: 447002   Time: 8687.76 ms
+Value: 447002   Time: 8849.85 ms
+Value: 447002   Time: 8789.9 ms
+Value: 447002   Time: 8543.88 ms
+Value: 447002   Time: 8766.45 ms
+Value: 447002   Time: 8894.99 ms
+Value: 447002   Time: 8603.76 ms
+Value: 447002   Time: 8586.06 ms
+Value: 447002   Time: 8666.32 ms
+Value: 447002   Time: 8874.95 ms
+Average Execution Time: 8726.39 ms
+
+File: inputs/5.txt Threads: 8
+Value: 447002   Time: 7610.09 ms
+Value: 447002   Time: 7607.46 ms
+Value: 447002   Time: 7679.09 ms
+Value: 447002   Time: 7725.55 ms
+Value: 447002   Time: 7813.4 ms
+Value: 447002   Time: 7673.16 ms
+Value: 447002   Time: 7637.49 ms
+Value: 447002   Time: 7519.74 ms
+Value: 447002   Time: 7618.29 ms
+Value: 447002   Time: 7807.94 ms
+Average Execution Time: 7669.22 ms
+
+File: inputs/5.txt Threads: 16
+Value: 447002   Time: 7014.41 ms
+Value: 447002   Time: 6988.78 ms
+Value: 447002   Time: 7103.16 ms
+Value: 447002   Time: 6962.46 ms
+Value: 447002   Time: 7079.05 ms
+Value: 447002   Time: 7046.86 ms
+Value: 447002   Time: 6999.26 ms
+Value: 447002   Time: 7092.35 ms
+Value: 447002   Time: 7070.09 ms
+Value: 447002   Time: 7052.09 ms
+Average Execution Time: 7040.85 ms
+

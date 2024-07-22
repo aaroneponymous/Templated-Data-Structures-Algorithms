@@ -1,3 +1,4 @@
+#include <vector>
 
 template <typename Comparable>
 class BinaryHeap
@@ -87,7 +88,7 @@ public:
 
 private:
     int current_size_;        // number of elements in heap
-    vector<Comparable> array; // the heap array
+    std::vector<Comparable> array; // the heap array
 
     void buildHeap();
     // Hole:
